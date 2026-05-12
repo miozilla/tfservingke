@@ -13,6 +13,7 @@ tfservingke : Autoscaling TensorFlow Model Deployments # TF Serving # Kubernetes
     - Install Locust
     - Load ResNet101 model
     - Monitor the model deployment
+- GKE similar skill sets/services/technologies : EKS, AKS, Kubernetes, k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 
 ## Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes 
